@@ -1,12 +1,8 @@
-# Ziyu Ge Gallery
+# Portfolio of Art High School Application
 
-This is a gallery created by me.
+## Introduction
 
-## Some Samples
-
-Some samples of my drawings.
-
-![Practice hand](./img/practice_hand.jpg)
+This is my journey of artistic growth.
 
 ## Fun
 
