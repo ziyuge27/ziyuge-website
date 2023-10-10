@@ -1,6 +1,7 @@
 # Idyllwild Arts Academy Visual Arts Portfolio
 
-![Practice hand](./practice_hand.jpg)
+Application artworks for Idyllwild School of the Arts:
+
 ![Still life 1](./3-4.JPG)
 ![Alt text](12.JPG)
 ![Alt text](1-4.JPG)
