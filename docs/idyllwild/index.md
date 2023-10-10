@@ -3,26 +3,21 @@
 ## Application artworks for Idyllwild Arts Academy
 
 Sushi for Dinner
-
-Black and white charcoal
-![Still life 1](./3-4.JPG)
+ (Black and white charcoal)
+![Still life 1](3-4.JPG)
 
 Wine, fruit, and rope
-
-Pencil
+ (Pencil)
 ![Alt text](12.JPG)
 
 Hansel and Gretel
-
-Acrylic
+ (Acrylic)
 ![Alt text](1-4.JPG)
 
 Jacket, shoe, glasses, and water
-
-Pencil
+ (Pencil)
 ![Alt text](<2nd Direct Observation Drawing.JPG>)
 
 Pot, cups, rose, and fruit
-
-Pencil and graphite powder
+ (Pencil and graphite powder)
 ![Alt text](<1st Direct Observation Drawing.JPG>)

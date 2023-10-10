@@ -18,6 +18,14 @@ theme:
         icon: material/weather-sunny
         name: Switch to dark mode
 
+theme:
+  font:
+    code: Roboto Mono
+
+theme:
+  palette:
+    primary: teal
+
 plugins:
   - search
   - blog
