@@ -18,6 +18,10 @@ theme:
         icon: material/weather-sunny
         name: Switch to dark mode
 
+theme:
+  palette:
+    primary: teal
+
 plugins:
   - search
   - blog
