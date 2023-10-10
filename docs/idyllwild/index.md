@@ -1,6 +1,6 @@
 # Idyllwild Arts Academy Visual Arts Portfolio
 
-## Application artworks for Idyllwild School of the Arts
+## Application artworks for Idyllwild Arts Academy
 
 Sushi for Dinner
 Black and white charcoal
