@@ -19,8 +19,16 @@ theme:
         name: Switch to dark mode
 
 theme:
+  name: material
+  palette:
+    primary: lime
+    accent: lime
+
+theme:
+  name: material
   font:
-    text: Gabarito
+    text: Rubik
+    code: Roboto Mono
 
 plugins:
   - search
