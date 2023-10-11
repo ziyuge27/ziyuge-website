@@ -20,7 +20,7 @@ Self-portrait from observation, any non-digital medium.
 Two-Four (2-4) quick sketches or drawings from a sketchbook.
 Four (4) other works in any medium.
 
-> :buld: **Application information:**
+> :bulb: **Application information:**
 Idyllwild Arts Academy changes their portfolio requirements every year so the same prompt isn't used twice.
 
 ==The guidelines for OCSA applications are as follows:==
@@ -50,5 +50,5 @@ one animal pet/mascot. As you design your character, think about shape-language,
 will help your hero character look even better and help tell the story of your character. Have fun with it.
 Work on paper or document size 8.5” x 11” or larger.
 
-> :buld: **Application information:**
+> :bulb: **Application information:**
 OCSA changes their portfolio requirements every year so the same prompt isn't used twice.
