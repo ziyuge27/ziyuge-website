@@ -1,4 +1,4 @@
-# Portfolio of Art High School Applications
+# __Portfolio of Art High School Applications__
 
 ## Introduction
 
