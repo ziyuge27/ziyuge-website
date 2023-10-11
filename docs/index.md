@@ -1,4 +1,4 @@
-# ^^Portfolio of Art High School Applications^^
+# ++Portfolio of Art High School Applications++
 
 ## Introduction
 
