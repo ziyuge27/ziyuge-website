@@ -20,6 +20,11 @@ Self-portrait from observation, any non-digital medium.
 Two-Four (2-4) quick sketches or drawings from a sketchbook.
 Four (4) other works in any medium.
 
+> :memo: **Application information**
+Idyllwild Arts Academy changes their portfolio
+requirements every year so the same prompt isn't
+used twice.
+
 ==The guidelines for OCSA applications are as follows:==
 At the time of submitting their application, all Visual Arts Conservatory applicants will upload only three (3) pieces of art, created as a response to the three (3) specific Artwork Prompts listed below. Please scan the three
 artworks and combine into a single PDF.
@@ -46,3 +51,8 @@ fictional story of your own creation. Your illustration should be a color full-b
 one animal pet/mascot. As you design your character, think about shape-language, color and props that
 will help your hero character look even better and help tell the story of your character. Have fun with it.
 Work on paper or document size 8.5” x 11” or larger.
+
+> :memo: **Application information**
+OCSA changes their portfolio requirements
+every year so the same prompt isn't used
+twice.
