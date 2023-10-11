@@ -17,12 +17,9 @@ theme:
       toggle:
         icon: material/weather-sunny
         name: Switch to dark mode
-
-theme:
-  name: material
-  palette:
-    primary: lime
-    accent: lime
+      
+      primary: lime
+      accent: lime
 
 theme:
   name: material
