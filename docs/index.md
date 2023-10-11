@@ -14,7 +14,6 @@ Self-portrait from observation, any non-digital medium.
 Two-Four (2-4) quick sketches or drawings from a sketchbook.
 Four (4) other works in any medium.
 
-
 ==The guidelines for OCSA applications are as follows:==
 At the time of submitting their application, all Visual Arts Conservatory applicants will upload only three (3) pieces of art, created as a response to the three (3) specific Artwork Prompts listed below. Please scan the three
 artworks and combine into a single PDF.
