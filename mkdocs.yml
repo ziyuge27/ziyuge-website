@@ -8,15 +8,18 @@ theme:
     - media: '(prefers-color-scheme: dark)'
       scheme: slate
       toggle:
-        icon: material/weather-night
+        icon: material/brightness-4
         name: Switch to light mode
+          primary: indigo
 
     # Palette toggle for light mode
     - media: '(prefers-color-scheme: light)'
       scheme: default
       toggle:
-        icon: material/weather-sunny
+        icon: material/brightness-7
         name: Switch to dark mode
+          primary: lime
+  
   font:
     text: Alata
     code: Roboto Mono
