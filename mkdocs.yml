@@ -10,7 +10,7 @@ theme:
       toggle:
         icon: material/brightness-4
         name: Switch to light mode
-        primary: indigo
+    primary: indigo
 
     # Palette toggle for light mode
     - media: '(prefers-color-scheme: light)'
@@ -18,7 +18,7 @@ theme:
       toggle:
         icon: material/brightness-7
         name: Switch to dark mode
-        primary: lime
+    primary: lime
   
   font:
     text: DM Sans
