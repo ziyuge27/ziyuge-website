@@ -18,12 +18,6 @@ theme:
         icon: material/weather-sunny
         name: Switch to dark mode
 
-theme:
-  name: material
-  font:
-    text: Rubik
-    code: Roboto Mono
-
 plugins:
   - search
   - blog
