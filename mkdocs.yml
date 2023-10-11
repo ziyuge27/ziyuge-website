@@ -17,9 +17,6 @@ theme:
       toggle:
         icon: material/weather-sunny
         name: Switch to dark mode
-      
-      primary: lime
-      accent: lime
 
 theme:
   name: material
