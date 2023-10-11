@@ -20,7 +20,7 @@ theme:
 
 theme:
   font:
-    code: Roboto Mono
+    text: Gabarito
 
 plugins:
   - search
