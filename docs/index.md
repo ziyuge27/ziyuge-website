@@ -4,7 +4,6 @@
 
 This website contains my sucessful application artworks to 3 different art high schools. Idyllwild Arts Academy, OCSA, and Walnut Hill.
 
-
 ==The guidelines for Idyllwild Arts Academy applications are as follows:==
 Applicants to the Visual Arts Department must submit at least 7 pieces that give a clear picture of who they are as an artist. All submissions must be the applicant’s original work.
 Images of artwork should be submitted as part of the student’s online application. In addition to the 2D requirements listed below, applicants may include painting, sculpture, ceramics, photography, animation, architecture, printmaking, mural work, graphic art, creative technology, and video art.
