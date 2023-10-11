@@ -3,6 +3,7 @@
 ## Introduction
 
 This website contains my sucessful application artworks to 3 different art high schools. Idyllwild Arts Academy, OCSA, and Walnut Hill.
+
 See application guidelines here:
 
 Idyllwild: [Idyllwild admissions guidelines](https://idyllwildartsadmissions.submittable.com/submit/257756/idyllwild-arts-academy-visual-arts-portfolio)
