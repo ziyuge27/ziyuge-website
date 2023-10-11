@@ -17,6 +17,10 @@ theme:
       toggle:
         icon: material/weather-sunny
         name: Switch to dark mode
+  font:
+    text: Capriola
+    code: Roboto Mono
+
 
 plugins:
   - search
