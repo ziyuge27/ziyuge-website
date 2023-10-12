@@ -2,7 +2,7 @@
 
 ## Introduction
 
-This website contains my sucessful application artworks to 3 different art high schools. Idyllwild Arts Academy, OCSA, and Walnut Hill. OCSA is located in Santa Ana, California, and is currently ranked #9 best art high school in America. It's diverse community and talented teachers mean that anyone can fit in, and secure a good future. Idyllwild Arts Academy, located between Los Angeles, and ranked #3 best art high school in America is a school built around culture. Their booarding system and beautiful campus ensure a comfortable and livley stay. Finally, Walnut Hill School for the Arts, located in Natick, Massachusetts, and ranked #8 best art high school in America is powered by community and acedemics. Their boarding system ensures a comfortable enviornment, while still ensuring great acedemic performance.
+This website contains my successful application artworks to 3 different art high schools. Idyllwild Arts Academy, OCSA, and Walnut Hill. OCSA is located in Santa Ana, California, and is currently ranked #9 best art high school in America. It's diverse community and talented teachers mean that anyone can fit in, and secure a good future. Idyllwild Arts Academy, located between Los Angeles, and ranked #3 best art high school in America is a school built around culture. Their boarding system and beautiful campus ensure a comfortable and lively stay. Finally, Walnut Hill School for the Arts, located in Natick, Massachusetts, and ranked #8 best art high school in America is powered by community and academics. Their boarding system ensures a comfortable environment, while still ensuring great academic performance.
 
 ^^See application guidelines here:^^
 
