@@ -19,7 +19,7 @@ theme:
         name: Switch to dark mode
   
   font:
-    text: Poppins
+    text: Roboto
     code: Roboto Mono
 
 
