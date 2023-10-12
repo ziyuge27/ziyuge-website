@@ -22,8 +22,9 @@ theme:
     text: Roboto
     code: Roboto Mono
 
-  primary: 'orange'
-  accent: indigo
+  palette:
+    primary: 'orange'
+    accent: indigo
 
 plugins:
   - search
