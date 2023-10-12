@@ -5,6 +5,8 @@ theme:
   name: material
   palette:
     # Palette toggle for dark mode
+    primary: 'indigo'
+    accent: indigo
     - media: '(prefers-color-scheme: dark)'
       scheme: slate
       toggle:
@@ -12,6 +14,8 @@ theme:
         name: Switch to light mode
 
     # Palette toggle for light mode
+    primary: 'lime'
+    accent: indigo
     - media: '(prefers-color-scheme: light)'
       scheme: default
       toggle:
@@ -21,10 +25,6 @@ theme:
   font:
     text: Roboto
     code: Roboto Mono
-
-  palette:
-    primary: 'orange'
-    accent: indigo
 
 plugins:
   - search
