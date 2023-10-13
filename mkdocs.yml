@@ -17,8 +17,8 @@ theme:
 
     - media: '(prefers-color-scheme: light)'
       scheme: default
-      primary: 'light green'
-      accent: light green
+      primary: 'red'
+      accent: red
       toggle:
         icon: material/brightness-7
         name: Switch to dark mode
