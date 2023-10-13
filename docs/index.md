@@ -9,7 +9,6 @@ This website contains my successful application artworks to 3 different art high
 - Idyllwild: [Idyllwild admissions guidelines](https://idyllwildartsadmissions.submittable.com/submit/257756/idyllwild-arts-academy-visual-arts-portfolio)
 
 - OCSA: [OCSA admissions guidelines](https://www.ocsarts.net/Portals/0/PDFs/Conservatory%20PDFs/2023-2024%20Placement%20Activity%20Guidelines/OCSA%202023-2024%20Placement%20Activity%20Guidelines%20-%20VA.pdf?ver=2022-09-30-101325-583)
-
 ## Application Details
 
 ^^The guidelines for Idyllwild Arts Academy applications are as follows:^^
