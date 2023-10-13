@@ -12,7 +12,7 @@ This website contains my successful application artworks to 3 different art high
 
 ## Application Details
 
-==The guidelines for Idyllwild Arts Academy applications are as follows:==
+^^The guidelines for Idyllwild Arts Academy applications are as follows:^^
 Applicants to the Visual Arts Department must submit at least 7 pieces that give a clear picture of who they are as an artist. All submissions must be the applicant’s original work.
 Images of artwork should be submitted as part of the student’s online application. In addition to the 2D requirements listed below, applicants may include painting, sculpture, ceramics, photography, animation, architecture, printmaking, mural work, graphic art, creative technology, and video art.
 
@@ -25,7 +25,7 @@ Four (4) other works in any medium.
 > :bulb: **Application information:**
 Idyllwild Arts Academy changes their portfolio requirements every year so the same prompt isn't used twice.
 
-==The guidelines for OCSA applications are as follows:==
+^^The guidelines for OCSA applications are as follows:^^
 At the time of submitting their application, all Visual Arts Conservatory applicants will upload only three (3) pieces of art, created as a response to the three (3) specific Artwork Prompts listed below. Please scan the three
 artworks and combine into a single PDF.
 
