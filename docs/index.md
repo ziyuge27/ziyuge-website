@@ -55,7 +55,7 @@ Work on paper or document size 8.5” x 11” or larger.
 > :bulb: **Application information:**
 OCSA changes their portfolio requirements every year so the same prompt isn't used twice.
 
-Change webiste colors here:
+
 <div class="mdx-switch">
   <button data-md-color-primary="red"><code>red</code></button>
   <button data-md-color-primary="pink"><code>pink</code></button>
