@@ -1,4 +1,9 @@
-# Idyllwild Arts Academy Visual Arts Portfolio
+---
+hide:
+  - navigation
+---
+
+# Idyllwild Arts Academy Visual Arts
 
 ## Application artworks for Idyllwild Arts Academy
 

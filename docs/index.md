@@ -1,3 +1,8 @@
+---
+hide:
+  - navigation
+---
+
 # __Portfolio of Art High School Applications__
 
 ## Introduction

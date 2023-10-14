@@ -1,4 +1,4 @@
-site_name: Ziyu Ge
+site_name: Ziyu Ge's Portfolios
 site_url: https://ziyuge.me
 
 
@@ -10,6 +10,8 @@ nav:
 
 theme:
   name: material
+  features:
+    -navigation.tabs
   palette:
     # Palette toggle for dark mode
     - media: '(prefers-color-scheme: dark)'
