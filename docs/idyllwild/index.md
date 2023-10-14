@@ -2,18 +2,27 @@
 
 ## Application artworks for Idyllwild Arts Academy
 
-Sushi for Dinner (Black and white charcoal)
-![sushi dinner still life](3-4.JPG)
+<figure markdown>
+  ![sushi dinner still life](3-4.JPG){ data-title="Sushi for Dinner (Black and white charcoal)" data-description="blah blah blah..." }
+  <figcaption>Sushi for Dinner (Black and white charcoal)</figcaption>
+</figure>
 
-Wine, fruit, and rope (Pencil)
-![wine, fruit, and rope still life](12.JPG)
+<figure markdown>
+  ![wine, fruit, and rope still life](12.JPG){ data-title="Wine, fruit, and rope (Pencil)" data-description="blah blah blah..." }
+  <figcaption>Wine, fruit, and rope (Pencil)</figcaption>
+</figure>
 
-Hansel and Gretel (Acrylic)
-![hansel and gretel acrylic painting](1-4.JPG)
+<figure markdown>
+  ![hansel and gretel acrylic painting](1-4.JPG){ data-title="Hansel and Gretel (Acrylic)" data-description="blah blah blah..." }
+  <figcaption>Hansel and Gretel (Acrylic)</figcaption>
+</figure>
 
-Jacket, shoe, glasses, and water (Pencil)
-![jacket, show, glasses, and water still life](<2nd Direct Observation Drawing.JPG>)
+<figure markdown>
+  ![jacket, show, glasses, and water still life](<2nd Direct Observation Drawing.JPG>){ data-title="Jacket, shoe, glasses, and water (Pencil)" data-description="blah blah blah..." }
+  <figcaption>Jacket, shoe, glasses, and water (Pencil)</figcaption>
+</figure>
 
-Pot, cups, rose, and fruit
- (Pencil and graphite powder)
-![pot, cups, rose, and fruit still life](<1st Direct Observation Drawing.JPG>)
+<figure markdown>
+  ![pot, cups, rose, and fruit still life](<1st Direct Observation Drawing.JPG>){ data-title="Pot, cups, rose, and fruit (Pencil and graphite powder)" data-description="blah blah blah..." }
+  <figcaption>Pot, cups, rose, and fruit (Pencil and graphite powder)</figcaption>
+</figure>
