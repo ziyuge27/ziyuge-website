@@ -1,6 +1,13 @@
 site_name: Ziyu Ge
 site_url: https://ziyuge.me
 
+
+nav:
+  - index.md
+  - idyllwild/index.md
+  - osca/index.md
+  - walnut/index.md
+
 theme:
   name: material
   palette:
@@ -26,10 +33,6 @@ theme:
   font:
     text: Roboto
     code: Roboto Mono
-
-plugins:
-  - search
-  - blog
 
 markdown_extensions:
   # Python Markdown
@@ -63,3 +66,18 @@ markdown_extensions:
   - pymdownx.tasklist:
       custom_checkbox: true
   - pymdownx.tilde
+
+plugins:
+  - glightbox:
+      touchNavigation: true
+      loop: false
+      effect: zoom
+      slide_effect: slide
+      width: 100%
+      height: auto
+      zoomable: true
+      draggable: true
+      skip_classes:
+        - custom-skip-class-name
+      auto_caption: false
+      caption_position: bottom
