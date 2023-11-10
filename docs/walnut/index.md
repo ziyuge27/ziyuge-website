@@ -4,5 +4,3 @@ hide:
 ---
 
 # Walnut Portfolio
-
-This is Walnut.
