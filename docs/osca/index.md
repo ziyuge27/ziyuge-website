@@ -9,15 +9,15 @@ hide:
 
 <figure markdown>
   ![Hero Character](hero_character.png){ data-title="Hero Character (Digital)" data-description="blah blah blah..." }
-  <figcaption>Garden(Pencil)</figcaption>
+  <figcaption>Alley (Digital)</figcaption>
 </figure>
 
 <figure markdown>
   ![Ramen](RAMEN.png){ data-title="Ramen (Digital and Acrylic)" data-description="blah blah blah..." }
-  <figcaption>Garden(Pencil)</figcaption>
+  <figcaption>Ramen(Digital and Acrylic)</figcaption>
 </figure>
 
 <figure markdown>
   ![jacket, shoe, glasses, and water still life](jacket_still_life.png){ data-title="jacket, shoe, glasses, and water still life" data-description="the description" }
-  <figcaption>Alley</figcaption>
+  <figcaption>jacket, shoe, glasses, and water (pencil)</figcaption>
 </figure>
