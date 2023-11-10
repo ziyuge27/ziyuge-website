@@ -15,8 +15,10 @@ This website contains my successful application artworks to 3 different art high
 
 - OCSA: [OCSA admissions guidelines](https://www.ocsarts.net/Portals/0/PDFs/Conservatory%20PDFs/2023-2024%20Placement%20Activity%20Guidelines/OCSA%202023-2024%20Placement%20Activity%20Guidelines%20-%20VA.pdf?ver=2022-09-30-101325-583)
 
+> :bulb: **Walnut Hill Application Guideline Information:**
+Walnut Hill only shows their application guidelines after you apply through their website first. I cannot show my application guidelines for Walnut Hill.
 > :boom: **Link information:**
-The links to the application guidelines may change in the future. The current links are to the guidelines I followed while appying.
+The links to the application guidelines may change in the future. The current links are to the guidelines I followed while applying.
 
 ## Application Details
 
