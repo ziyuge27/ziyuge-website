@@ -14,3 +14,13 @@ hide:
   ![italy](italy.png){ data-title="italy" data-description="blah blah blah..." }
   <figcaption>Dark Alleyway (Oil painting)</figcaption>
 </figure>
+
+<figure markdown>
+  ![my_house](my_house.png){ data-title="my_house" data-description="blah blah blah..." }
+  <figcaption>My Garden (Watercolor)</figcaption>
+</figure>
+
+<figure markdown>
+  ![elder](elder.png){ data-title="elder" data-description="blah blah blah..." }
+  <figcaption>Elderly (Oil Painting)</figcaption>
+</figure>
