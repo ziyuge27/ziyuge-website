@@ -7,6 +7,7 @@ nav:
   - idyllwild/index.md
   - osca/index.md
   - walnut/index.md
+  - current/index.md
 
 theme:
   name: material
