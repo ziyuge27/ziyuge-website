@@ -34,7 +34,7 @@ theme:
         name: Switch to dark mode
   
   font:
-    text: Roboto
+    text: Merriweather Sans
     code: Roboto Mono
 
 markdown_extensions:
