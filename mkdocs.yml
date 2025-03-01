@@ -8,6 +8,7 @@ nav:
   - osca/index.md
   - walnut/index.md
   - current/index.md
+  - italy/index.md
 
 theme:
   name: material
