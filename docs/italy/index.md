@@ -40,7 +40,7 @@ hide:
 </figure>
 
 <figure markdown>
-  ![fac1]{fac1}.png){ data-title=" " data-description=" " }
+  ![fac1](fac1.png){ data-title=" " data-description=" " }
   <figcaption> </figcaption>
 </figure>
 
