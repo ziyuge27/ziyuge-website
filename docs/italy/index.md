@@ -54,6 +54,69 @@ hide:
   <figcaption> </figcaption>
 </figure>
 
+## Mario Trimarchi Design
+
+</figure><figure markdown>
+  ![mtd0](mtd0.png){ data-title=" " data-description=" " }
+  <figcaption> </figcaption>
+</figure>
+
+</figure><figure markdown>
+  ![mtd1](mtd1.png){ data-title=" " data-description=" " }
+  <figcaption> </figcaption>
+</figure>
+
+</figure><figure markdown>
+  ![mtd2](mtd2.png){ data-title=" " data-description=" " }
+  <figcaption> </figcaption>
+</figure>
+
+</figure><figure markdown>
+  ![mtd3](mtd3.png){ data-title=" " data-description=" " }
+  <figcaption> </figcaption>
+</figure>
+
+## Parco Studio
+
+</figure><figure markdown>
+  ![ps0](ps0.png){ data-title=" " data-description=" " }
+  <figcaption> </figcaption>
+
+</figure></figure><figure markdown>
+  ![ps1](ps1.png){ data-title=" " data-description=" " }
+  <figcaption> </figcaption>
+
+</figure></figure><figure markdown>
+  ![ps2](ps2.png){ data-title=" " data-description=" " }
+  <figcaption> </figcaption>
+
+</figure></figure><figure markdown>
+  ![ps3](ps3.png){ data-title=" " data-description=" " }
+  <figcaption> </figcaption>
+</figure>
+
+## ATTO
+
+</figure></figure><figure markdown>
+  ![a0](a0.png){ data-title=" " data-description=" " }
+  <figcaption> </figcaption>
+</figure>
+
+</figure></figure><figure markdown>
+  ![a1](a1.png){ data-title=" " data-description=" " }
+  <figcaption> </figcaption>
+</figure>
+
+</figure></figure><figure markdown>
+  ![a2](a2.png){ data-title=" " data-description=" " }
+  <figcaption> </figcaption>
+</figure>
+
+</figure></figure><figure markdown>
+  ![a3](a3.png){ data-title=" " data-description=" " }
+  <figcaption> </figcaption>
+</figure>
+
 ## Frog
 
 <figure markdown>
@@ -70,5 +133,16 @@ hide:
 
 </figure><figure markdown>
   ![f3](f3.png){ data-title=" " data-description=" " }
+  <figcaption> </figcaption>
+</figure>
+
+## Design Group Italia
+
+</figure><figure markdown>
+  ![dgi0](dgi0.png){ data-title=" " data-description=" " }
+  <figcaption> </figcaption>
+
+</figure></figure><figure markdown>
+  ![dgi1](dgi1.png){ data-title=" " data-description=" " }
   <figcaption> </figcaption>
 </figure>
